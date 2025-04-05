@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Strapi build
+.build/
+
+# Logs
+logs/
+
+# Temp files
+tmp/
+
+# Database files
+data/
+
+# SQLite database
+*.sqlite
+
+# Environment files
+.env
+
+# IDE / editor specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
